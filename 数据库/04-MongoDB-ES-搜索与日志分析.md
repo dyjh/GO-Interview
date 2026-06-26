@@ -154,4 +154,4 @@ MongoDB 优势：
 
 ## 文章导航
 上一篇：[03-MySQL分库分表-读写分离](03-MySQL分库分表-读写分离.md)
-下一篇：[01-Redis数据结构-持久化-缓存问题](../中间件/01-Redis数据结构-持久化-缓存问题.md)
+下一篇：[05-PostgreSQL介绍-MySQL对比-GORM兼容](05-PostgreSQL介绍-MySQL对比-GORM兼容.md)
