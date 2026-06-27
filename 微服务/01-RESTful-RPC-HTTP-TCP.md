@@ -310,4 +310,4 @@ TCP 面向连接、可靠、有序、基于字节流，适合文件传输、HTTP
 
 ## 文章导航
 上一篇：[03-消息队列-Kafka-RocketMQ](../中间件/03-消息队列-Kafka-RocketMQ.md)
-下一篇：[02-服务发现-ZooKeeper-Consul-etcd](02-服务发现-ZooKeeper-Consul-etcd.md)
+下一篇：[02-注册中心-ZooKeeper-Consul-etcd](02-注册中心-ZooKeeper-Consul-etcd.md)
